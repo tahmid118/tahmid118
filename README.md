@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahmid118
+- 👋 Hi, I’m Tahmid Shahriar
 - 👀 I’m interested in HTML,CSS,PHP,SQL,ORACLE,C++,PYTHON
 - 🌱 I’m currently learning LARAVEL
 - 💞️ I’m looking to collaborate on ...
